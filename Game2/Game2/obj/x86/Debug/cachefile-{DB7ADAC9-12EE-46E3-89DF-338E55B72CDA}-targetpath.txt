@@ -1,0 +1,3 @@
+Content\Blocks.xnb
+Content\character.xnb
+Content\character2.xnb
